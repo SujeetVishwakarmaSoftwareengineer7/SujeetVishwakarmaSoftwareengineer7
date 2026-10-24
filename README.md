@@ -85,7 +85,7 @@ college-related guidance.
 **Current focus:** Understanding the backend, improving data flow,
 and making the main features work reliably.
 
-**Repository:** Add your actual CampusConnect GitHub repository URL.
+**Live Link:** https://campusconnect-d3e01.web.app/index.html.
 
 ---
 
@@ -106,7 +106,7 @@ mentor-guided project activity.
 **My contribution:** Add the specific features you personally
 implemented, tested, or modified.
 
-**Repository:** Add your actual Smart Study Agent GitHub repository URL.
+**Repository:**(https://github.com/SujeetVishwakarmaSoftwareengineer7/smart-study-agent).
 
 ---
 
@@ -116,11 +116,11 @@ I practise Data Structures and Algorithms to improve my
 logical thinking and problem-solving skills.
 
 <p>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/sSujeetVishwakarma/">
     <img src="https://img.shields.io/badge/LeetCode-Practising-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ssujeeeihv?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://www.geeksforgeeks.org/profile/ssujeeeihv" alt="GeeksforGeeks" />
   </a>
 </p>
 
