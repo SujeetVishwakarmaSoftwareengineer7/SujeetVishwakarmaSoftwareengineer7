@@ -1,78 +1,123 @@
 
 <h1 align="center">Hi 👋, I'm Sujeet Vishwakarma</h1>
-<h3 align="center">BCA Student | Aspiring Software Development Engineer</h3>
+
+<h3 align="center">
+  BCA Student | Aspiring Software Development Engineer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SujeetVishwakarmaSoftwareengineer7&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujeet-vishwakarma-9238803a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SujeetVishwakarmaSoftwareengineer7">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA student from India.
-- 💻 Interested in software development and problem-solving.
-- 🌱 Currently learning **MERN Stack and Data Structures & Algorithms (DSA)**.
-- 🧠 Practising coding problems to strengthen logical thinking.
-- 🚀 Focused on building practical projects and improving my programming fundamentals.
+I'm a Bachelor of Computer Applications (BCA) student from India,
+working towards becoming a Software Development Engineer.
+
+I enjoy understanding how software works, solving programming
+problems, and building projects that address real student needs.
+
+- 🎓 Pursuing BCA
+- 💻 Practising Data Structures & Algorithms using C++
+- 🌱 Learning full-stack web development
+- 🛠️ Building projects to strengthen my development skills
+- 🎯 Focused on problem-solving, programming fundamentals, and continuous learning
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++" />
 </p>
 
 ### Web Development
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 </p>
 
 ### Tools & Platforms
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
 ### Currently Learning
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express, MongoDB" />
 </p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-### CampusConnect
-A student-focused platform concept for connecting juniors with seniors and sharing academic guidance.
+### 1. CampusConnect
 
-- **Focus:** Student support and information sharing.
-- **Technologies:** HTML, CSS, JavaScript.
-- **Repository:** Add your actual project repository link here.
+**Personal Project | In Progress**
 
-### Smart Study Agent
-An AI-assisted study application designed to help students work with learning materials.
+CampusConnect is an idea I initiated to help college freshers
+connect with seniors, ask academic questions, and find useful
+college-related guidance.
 
-- **Focus:** Study assistance and content processing.
-- **Technologies:** Python, Flask.
-- **Repository:** Add your actual project repository link here.
+**My work**
+- Identified the problem and developed the project idea.
+- Started building the frontend and user-facing pages.
+- Used AI assistance while developing backend functionality.
+- Continuing to understand, test, and improve the application.
+
+**Technologies:** HTML, CSS, JavaScript, Firebase
+
+**Current focus:** Understanding the backend, improving data flow,
+and making the main features work reliably.
+
+**Repository:** Add your actual CampusConnect GitHub repository URL.
 
 ---
 
-## 🧩 Coding Practice
+### 2. Smart Study Agent
+
+**Mentor-Guided Project | IBM-Related Activity**
+
+An AI-assisted study application developed during a
+mentor-guided project activity.
+
+**Project focus**
+- Helping students work with learning materials.
+- Exploring AI-assisted study and content-processing features.
+- Learning how a web application can use a Python backend.
+
+**Technologies:** Python, Flask, and the AI tools used in the project.
+
+**My contribution:** Add the specific features you personally
+implemented, tested, or modified.
+
+**Repository:** Add your actual Smart Study Agent GitHub repository URL.
+
+---
+
+##  Coding & Problem-Solving
+
+I practise Data Structures and Algorithms to improve my
+logical thinking and problem-solving skills.
 
 <p>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Practising-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ssujeeeihv?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
@@ -81,30 +126,15 @@ An AI-assisted study application designed to help students work with learning ma
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/sujeet-vishwakarma-9238803a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SujeetVishwakarmaSoftwareengineer7">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- **LinkedIn:** [Sujeet Vishwakarma](https://www.linkedin.com/in/sujeet-vishwakarma-9238803a5/)
+- **GitHub:** [SujeetVishwakarmaSoftwareengineer7](https://github.com/SujeetVishwakarmaSoftwareengineer7)
+- **GeeksforGeeks:** [My Profile](https://www.geeksforgeeks.org/profile/ssujeeeihv?tab=activity)
 
 ---
 
 <p align="center">
-  <i>Learning consistently, building projects, and improving one problem at a time.</i>
+  <i>Learning by building, improving through practice, and growing one step at a time.</i>
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" " /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetvishwakarmasoftwareengineer7&show_icons=true&locale=en&layout=compact" alt="sujeetvishwakarmasoftwareengineer7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetvishwakarmasoftwareengineer7&show_icons=true&locale=en" alt="sujeetvishwakarmasoftwareengineer7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetvishwakarmasoftwareengineer7&" alt="sujeetvishwakarmasoftwareengineer7" /></p>
 
