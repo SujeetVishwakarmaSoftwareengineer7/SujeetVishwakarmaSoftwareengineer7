@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Sujeet Vishwakarma</h1>
+ <h1 align="center">Hi 👋, I'm Sujeet Vishwakarma</h1>
 
 <h3 align="center">
   BCA Student | Aspiring Software Development Engineer
@@ -66,30 +65,7 @@ problems, and building projects that address real student needs.
 
 ## 🚀 Featured Projects
 
-### 1. CampusConnect
-
-**Personal Project | In Progress**
-
-CampusConnect is an idea I initiated to help college freshers
-connect with seniors, ask academic questions, and find useful
-college-related guidance.
-
-**My work**
-- Identified the problem and developed the project idea.
-- Started building the frontend and user-facing pages.
-- Used AI assistance while developing backend functionality.
-- Continuing to understand, test, and improve the application.
-
-**Technologies:** HTML, CSS, JavaScript, Firebase
-
-**Current focus:** Understanding the backend, improving data flow,
-and making the main features work reliably.
-
-**Live Link:** https://campusconnect-d3e01.web.app/index.html.
-
----
-
-### 2. Smart Study Agent
+### Smart Study Agent
 
 **Mentor-Guided Project | IBM-Related Activity**
 
@@ -106,11 +82,11 @@ mentor-guided project activity.
 **My contribution:** Add the specific features you personally
 implemented, tested, or modified.
 
-**Repository:**(https://github.com/SujeetVishwakarmaSoftwareengineer7/smart-study-agent).
+**Repository:** (https://github.com/SujeetVishwakarmaSoftwareengineer7/smart-study-agent).
 
 ---
 
-##  Coding & Problem-Solving
+## Coding & Problem-Solving
 
 I practise Data Structures and Algorithms to improve my
 logical thinking and problem-solving skills.
@@ -126,7 +102,7 @@ logical thinking and problem-solving skills.
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Sujeet Vishwakarma](https://www.linkedin.com/in/sujeet-vishwakarma-9238803a5/)
 - **GitHub:** [SujeetVishwakarmaSoftwareengineer7](https://github.com/SujeetVishwakarmaSoftwareengineer7)
@@ -137,4 +113,3 @@ logical thinking and problem-solving skills.
 <p align="center">
   <i>Learning by building, improving through practice, and growing one step at a time.</i>
 </p>
-
